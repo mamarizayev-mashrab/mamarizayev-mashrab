@@ -1,36 +1,36 @@
-<!-- Header banner using Capsule Render -->
+<!-- Capsule Render yordamida yaratilgan sarlavha banneri -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7B2CBF&customColorEnd=3A86FF&height=220&section=header&text=Mashrab%20Mamarizayev&fontSize=45&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7B2CBF&customColorEnd=3A86FF&height=220&section=header&text=Mashrab%20Mamarizayev&fontSize=45&fontAlignY=35&animation=twinkling" width="100%" alt="Sarlavha Banneri" />
 </p>
 
-<!-- Hero Section with Typing Animation -->
+<!-- Yozuv animatsiyasi bilan Hero bo'limi -->
 <div align="center">
-  <h1>Hi 👋, I'm Mashrab Mamarizayev</h1>
+  <h1>Salom 👋, Men Mashrab Mamarizayev</h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&height=50&lines=Flutter+Developer;Full+Stack+Developer;Startup+Founder;AI+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&height=50&lines=Flutter+Dasturchi;Full+Stack+Dasturchi;Startap+Asoschisi;AI+Ishqibozi" alt="Yozuv Animatsiyasi" />
   </p>
 </div>
 
 <br>
 
-<!-- About Me Section -->
-## 💫 About Me
+<!-- Men Haqimda Bo'limi -->
+## 💫 Men Haqimda
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>Hey there! I am a passionate developer from Uzbekistan 🇺🇿</h3>
-      <p>I specialize in building sleek mobile applications and high-performance backends. I love exploring new technologies and building startups that solve real problems.</p>
+      <h3>Assalomu alaykum! Men O'zbekistondan bo'lgan g'ayratli dasturchiman 🇺🇿</h3>
+      <p>Men nafis mobil ilovalar va yuqori samarali backend tizimlarini yaratishga ixtisoslashganman. Yangi texnologiyalarni o'rganishni va hayotiy muammolarni hal qiluvchi startaplarni qurishni yaxshi ko'raman.</p>
       <ul>
-        <li>📱 <b>Flutter Developer</b> with a passion for crafting beautiful, native mobile experiences.</li>
-        <li>🚀 Co-founding and building the <b>Ishoora</b> startup.</li>
-        <li>🧠 Deeply passionate about <b>AI integration, Mobile Apps,</b> and <b>Backend Development</b>.</li>
-        <li>📚 Currently learning advanced <b>Flutter clean architecture</b> and <b>FastAPI best practices</b>.</li>
-        <li>🤝 Active <b>Open Source Contributor</b> and developer community member.</li>
+        <li>📱 Chiroyli va tezkor mobil interfeyslarni yaratishga ishtiyoqi baland bo'lgan <b>Flutter dasturchi</b>.</li>
+        <li>🚀 <b>Ishoora</b> startapining hammuassisi va uni ishlab chiquvchi.</li>
+        <li>🧠 <b>Sun'iy intellekt (AI) integratsiyasi</b>, mobil ilovalar va backend tizimlarini ishlab chiqishga qiziqaman.</li>
+        <li>📚 Hozirda <b>Flutter clean architecture</b> (toza arxitektura) va <b>FastAPI</b> bo'yicha ilg'or tajribalarni o'rganyapman.</li>
+        <li>🤝 Faol <b>Open Source ishtirokchisi</b> va dasturchilar hamjamiyati a'zosi.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Premium avatar generated for Mashrab -->
+      <!-- Mashrab uchun yaratilgan maxsus avatar -->
       <img src="./developer_avatar.jpg" width="220" style="border-radius: 15px; box-shadow: 0 4px 30px rgba(123, 44, 191, 0.3);" alt="Mashrab Mamarizayev" />
     </td>
   </tr>
@@ -38,23 +38,23 @@
 
 <br>
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack & Tools
+<!-- Texnologiyalar Bo'limi -->
+## 🛠️ Texnologiyalar va Uskunalar
 
 <div align="center">
-  <!-- Skill Icons Grid -->
+  <!-- Skill Icons paneli -->
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,py,fastapi,firebase,git,github,docker,linux,figma,vscode,html,css,js&perline=7" alt="Tech Stack Icons" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,py,fastapi,firebase,git,github,docker,linux,figma,vscode,html,css,js&perline=7" alt="Texnologiyalar" />
     </a>
   </p>
 
-  <!-- Categorized Shields.io Badges -->
+  <!-- Turkumlar bo'yicha Shields.io nishonlari -->
   <table>
     <tr>
-      <td align="center"><b>Mobile & Frontend</b></td>
-      <td align="center"><b>Backend & Database</b></td>
-      <td align="center"><b>Tools & DevOps</b></td>
+      <td align="center"><b>Mobil va Frontend</b></td>
+      <td align="center"><b>Backend va Ma'lumotlar Bazasi</b></td>
+      <td align="center"><b>Uskunalar va DevOps</b></td>
     </tr>
     <tr>
       <td valign="top">
@@ -83,8 +83,8 @@
 
 <br>
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+<!-- Loyihalar Bo'limi -->
+## 🚀 Tanlangan Loyihalar
 
 <div align="center">
   <table border="0">
@@ -92,40 +92,40 @@
       <!-- Ishoora Card -->
       <td width="33.3%" align="center" valign="top">
         <a href="https://github.com/mamarizayev-mashrab/ishoora" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=7B2CBF&text=Ishoora&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Ishoora Card Header" />
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=7B2CBF&text=Ishoora&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Ishoora Loyihasi" />
         </a>
-        <h3><b>Ishoora Startup</b></h3>
-        <p>A cutting-edge startup project built with Flutter & FastAPI, designed to streamline digital operations.</p>
+        <h3><b>Ishoora Startap</b></h3>
+        <p>Raqamli operatsiyalarni soddalashtirish uchun Flutter va FastAPI yordamida yaratilgan zamonaviy startap loyihasi.</p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/ishoora" target="_blank"><b>View Project Repo →</b></a>
+        <a href="https://github.com/mamarizayev-mashrab/ishoora" target="_blank"><b>Loyihani ko'rish →</b></a>
       </td>
       
       <!-- Oxford Mind Card -->
       <td width="33.3%" align="center" valign="top">
         <a href="https://github.com/mamarizayev-mashrab/oxford-mind" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=3A86FF&text=Oxford%20Mind&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Oxford Mind Card Header" />
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=3A86FF&text=Oxford%20Mind&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Oxford Mind Loyihasi" />
         </a>
         <h3><b>Oxford Mind</b></h3>
-        <p>A comprehensive mobile educational app helping users master Oxford vocabulary and boost brain power.</p>
+        <p>Foydalanuvchilarga Oxford lug'atlarini o'zlashtirishga va miya faoliyatini rivojlantirishga yordam beradigan mukammal mobil ta'lim ilovasi.</p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
         <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/oxford-mind" target="_blank"><b>View Project Repo →</b></a>
+        <a href="https://github.com/mamarizayev-mashrab/oxford-mind" target="_blank"><b>Loyihani ko'rish →</b></a>
       </td>
       
       <!-- File Converter Card -->
       <td width="33.3%" align="center" valign="top">
         <a href="https://github.com/mamarizayev-mashrab/file-converter" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=9D4EDD&text=File%20Converter&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="File Converter Card Header" />
+          <img src="https://capsule-render.vercel.app/api?type=soft&color=9D4EDD&text=File%20Converter&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="File Converter Loyihasi" />
         </a>
-        <h3><b>File Converter</b></h3>
-        <p>A fast, secure local file converter utility that supports batch conversions for various formats.</p>
+        <h3><b>Fayl Konvertori</b></h3>
+        <p>Turli formatlarni ommaviy konvertatsiya qilishni qo'llab-quvvatlaydigan tezkor va xavfsiz lokal fayl konvertori.</p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/file-converter" target="_blank"><b>View Project Repo →</b></a>
+        <a href="https://github.com/mamarizayev-mashrab/file-converter" target="_blank"><b>Loyihani ko'rish →</b></a>
       </td>
     </tr>
   </table>
@@ -133,8 +133,8 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
+<!-- GitHub Statistikasi -->
+## 📊 GitHub Tahlillari
 
 <div align="center">
   <table border="0">
@@ -156,8 +156,8 @@
 
 <br>
 
-<!-- Contribution Snake Section -->
-### 🐍 Contribution Game
+<!-- Hissalar Ilonchasi Bo'limi -->
+### 🐍 Hissalar Ilonchasi (Contribution Snake)
 
 <div align="center">
   <picture>
@@ -170,20 +170,20 @@
 <br>
 
 <details>
-  <summary><b>🛠️ How to activate the Contribution Snake Animation</b></summary>
+  <summary><b>🛠️ Hissalar ilonchasi animatsiyasini qanday faollashtirish kerak</b></summary>
   <br>
-  To make the snake animation work, we have already added the GitHub Actions workflow file in this repository. Follow these simple steps:
-  1. Push the local changes to your GitHub profile repository (usually named the same as your username, e.g., <code>mamarizayev-mashrab/mamarizayev-mashrab</code>).
-  2. Go to your repository settings on GitHub -> <b>Actions</b> -> <b>General</b>.
-  3. Scroll down to <b>Workflow permissions</b> -> select <b>Read and write permissions</b> -> Click <b>Save</b>.
-  4. Go to the <b>Actions</b> tab in your repository, select the <b>Generate Snake</b> workflow, and click <b>Run workflow</b>.
-  5. The workflow will generate the animation and commit it to an <code>output</code> branch, updating your profile README instantly!
+  Iloncha animatsiyasi ishlashi uchun biz ushbu repository-ga GitHub Actions workflow faylini qo'shdik. Uni ishga tushirish uchun quyidagi oddiy qadamlarni bajaring:
+  1. Mahalliy o'zgarishlarni GitHub profilingiz omboriga yuboring (odatda foydalanuvchi nomingiz bilan bir xil, masalan, <code>mamarizayev-mashrab/mamarizayev-mashrab</code>).
+  2. GitHub-dagi repository sozlamalariga (<b>Settings</b>) o'ting -> <b>Actions</b> -> <b>General</b>.
+  3. Sahifaning pastki qismidagi <b>Workflow permissions</b> bo'limidan <b>Read and write permissions</b>-ni tanlang va <b>Save</b> tugmasini bosing.
+  4. Repository-ning <b>Actions</b> bo'limiga o'ting, <b>Generate Snake</b> workflow-ni tanlang va <b>Run workflow</b> tugmasini bosing.
+  5. Workflow animatsiyani yaratadi va uni <code>output</code> branch-iga yuklaydi. Natijada profilingiz README fayli shu zahoti yangilanadi!
 </details>
 
 <br>
 
-<!-- Connect with me Section -->
-## 🤝 Connect with Me
+<!-- Aloqa Bo'limi -->
+## 🤝 Men bilan Bog'lanish
 
 <p align="center">
   <a href="https://github.com/mamarizayev-mashrab" target="_blank">
@@ -202,12 +202,12 @@
 
 <br>
 
-<!-- Visitor Counter -->
+<!-- Profil ko'rishlar soni -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mamarizayev-mashrab&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
-<!-- Footer waving banner using Capsule Render -->
+<!-- Capsule Render yordamida yaratilgan quyi waving banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3A86FF&customColorEnd=7B2CBF&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3A86FF&customColorEnd=7B2CBF&height=120&section=footer" width="100%" alt="Quyi Banner" />
 </p>
