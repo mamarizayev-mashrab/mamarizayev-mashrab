@@ -239,7 +239,7 @@ Leveraged asynchronous subprocess execution within Python to call FFmpeg binary 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mamarizayev-mashrab&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=mamarizayev-mashrab&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
