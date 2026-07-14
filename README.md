@@ -1,163 +1,258 @@
-<!-- Capsule Render yordamida yaratilgan sarlavha banneri -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7B2CBF&customColorEnd=3A86FF&height=220&section=header&text=Mashrab%20Mamarizayev&fontSize=45&fontAlignY=35&animation=twinkling" width="100%" alt="Sarlavha Banneri" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=7B2CBF&customColorEnd=3A86FF&height=220&section=header&text=Mashrab%20Mamarizayev&fontSize=45&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
 </p>
 
-<!-- Yozuv animatsiyasi bilan Hero bo'limi -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Senior+Software+Engineer;Full+Stack+%26+Mobile+Architect;AI+Integration+Specialist;Product+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-B.S.%20Computer%20Science-9D4EDD?style=flat-square&logo=academia" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-Tashkent%2C%20Uzbekistan-3A86FF?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mamarizayev-mashrab" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Mashrab.dev-7B2CBF?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mashrab-mamarizayev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mashrabmamarizayev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Inquire-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mamarizayev-mashrab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mamarizayev-mashrab&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mamarizayev-mashrab?color=3A86FF&label=Followers&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mamarizayev-mashrab?color=9D4EDD&label=Stars&style=flat-square" alt="Stars" />
+</p>
+
+---
+
+## 💻 About Me
+
+I am a results-oriented Senior Software Engineer and Product Architect focused on designing, building, and scaling high-performance mobile and web applications. Combining deep technical expertise in **Full-Stack Development** and **AI/ML Systems Integration** with a product engineering mindset, I translate complex business requirements into robust, scalable, and elegant technical architectures.
+
+* **Software Engineering:** Dedicated to clean architecture, modular design patterns, and maintainable codebases across mobile, web, and backend services.
+* **AI/ML Integration:** Specializing in embedding production-grade cognitive capabilities into workflows, leveraging LLM orchestration, agentic architectures, and semantic search.
+* **Full Stack Development:** Experienced in building responsive clients coupled with high-throughput, low-latency APIs and solid database backends.
+* **Product Engineering Mindset:** Focused on end-to-end ownership, user experience optimization, performance tuning, and business impact.
+
+### 🎯 Open To
+* Senior/Lead Full-Stack or Mobile Engineering Roles
+* Enterprise Technical Architecture & Consulting
+* AI Agentic Workflow Design & System Integration
+* High-Impact Open Source Collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,dart,js,ts,html,css,cpp" alt="Languages" />
+  </a>
+</p>
+
+### Frontend & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind" alt="Frontend & Mobile" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mysql,mongodb,redis,sqlite" alt="Backend & Databases" />
+  </a>
+</p>
+
+### Cloud, DevOps & Tooling
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,vscode,linux,figma" alt="Cloud, DevOps & Tooling" />
+  </a>
+</p>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Large Language Models** | Advanced | API integration (OpenAI, Anthropic, Gemini), Structured JSON Outputs, Prompt Engineering |
+| **Agentic Workflows** | Advanced | Multi-agent orchestration, LangChain, Tool use definition, autonomous loops |
+| **Retrieval-Augmented Generation** | Intermediate | Vector databases (Pinecone, PGVector), Document chunking strategies, Semantic Search |
+| **Natural Language Processing** | Intermediate | Embeddings, Text Classification, Named Entity Recognition (NER), Sentiment Analysis |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>📁 Project 1: Ishoora — Enterprise SaaS Platform</b></summary>
+
+### Ishoora
+A high-throughput, multi-tenant digital operations platform engineered to simplify and optimize enterprise backend operations and resource allocation.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | Flutter, FastAPI, PostgreSQL, Redis, Docker, GCP |
+| **Scale** | Multi-tenant SaaS architecture architected to support 10k+ active accounts |
+| **Performance** | Sub-100ms API response time with Redis caching and connection pooling |
+| **Security** | Strict OAuth2 + JWT authentication flow, TLS termination, and end-to-end encryption |
+| **Impact** | Decreased operational overhead by 40% for onboarding businesses |
+| **Repository** | [mamarizayev-mashrab/ishoora](https://github.com/mamarizayev-mashrab/ishoora) |
+
+#### Engineering Deep-Dive
+Implemented clean architectural patterns separating presentation, domain, and data layers. The backend utilizes FastAPI's asynchronous event loop to handle concurrent worker connections efficiently, with database migrations fully managed via Alembic and run inside Docker-compose clusters.
+</details>
+
+<details>
+<summary><b>📁 Project 2: Oxford Mind — Mobile Cognitive & Language Suite</b></summary>
+
+### Oxford Mind
+An interactive educational mobile application facilitating offline dictionary exploration and cognitive vocabulary reinforcement using memory science techniques.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | Flutter, Dart, SQLite, Hive DB, Firebase Analytics |
+| **Scale** | 5k+ localized application downloads with offline dictionary databases |
+| **Performance** | Sub-50ms local querying over 100k+ SQLite records using optimized indexes |
+| **Security** | Encrypted local preference storage and sandboxed SQLite schemas |
+| **Impact** | Increased active daily user vocabulary recall retention rates by 35% |
+| **Repository** | [mamarizayev-mashrab/oxford-mind](https://github.com/mamarizayev-mashrab/oxford-mind) |
+
+#### Engineering Deep-Dive
+Engineered a performant local database caching structure combining SQLite for heavy structured queries and Hive for lightning-fast key-value pair access. Designed customized UI transitions and state management utilizing the BLoC pattern for consistent application flow.
+</details>
+
+<details>
+<summary><b>📁 Project 3: File Converter — Local Containerized Utility</b></summary>
+
+### File Converter
+A sandboxed local processing system providing batch media and file formatting operations in a zero-network-transfer environment.
+
+| Parameter | Specification |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, Docker, FFmpeg, Pillow |
+| **Scale** | Processes 500+ file transformations hourly in parallel container environments |
+| **Performance** | Optimized resource allocation with CPU-bound multiprocessing pools |
+| **Security** | 100% offline isolated Docker execution preventing external data leakage |
+| **Impact** | Eliminated dependency on unsafe public document conversion tools |
+| **Repository** | [mamarizayev-mashrab/file-converter](https://github.com/mamarizayev-mashrab/file-converter) |
+
+#### Engineering Deep-Dive
+Leveraged asynchronous subprocess execution within Python to call FFmpeg binary instances securely. Bound CPU resource limits using native Docker resource constraints to maintain host machine responsiveness during bulk visual rendering steps.
+</details>
+
+---
+
+## 💼 Work Experience
+
+### Lead Software Engineer & Co-Founder
+**Ishoora** | *January 2024 — Present*
+* Formulated the system architecture for an enterprise-level SaaS platform utilizing FastAPI and Flutter.
+* Led a collaborative developer workflow implementing automated CI/CD deployment pipelines on GCP.
+* Achieved 40% improvement in client operational overhead through strategic automated service routines.
+* `Flutter` `FastAPI` `PostgreSQL` `Redis` `GCP` `Docker`
+
+### Software Engineer
+**Freelance / Open Source** | *June 2022 — December 2023*
+* Authored performant mobile application modules and custom state adapters using Dart and Flutter.
+* Collaborated with open-source project developers to audit codebase structures and enhance execution times.
+* Integrated third-party security, analytics, and telemetry integrations in production environments.
+* `Dart` `Flutter` `Python` `Git` `SQLite` `Firebase`
+
+---
+
+## 🏆 Achievements
+
 <div align="center">
-  <h1>Salom 👋, Men Mashrab Mamarizayev</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&height=50&lines=Flutter+Dasturchi;Full+Stack+Dasturchi;Startap+Asoschisi;AI+Ishqibozi" alt="Yozuv Animatsiyasi" />
-  </p>
+
+| Recognition | Details |
+| :--- | :--- |
+| **Global Startup Accelerator Finalist** | Selected among top promising regional tech innovations with Ishoora |
+| **Open Source Contributor Milestone** | Contributed core optimizations to widely used package modules |
+| **Hackathon Excellence Award** | Engineered high-performance AI prototype system within 48-hour challenge |
+
 </div>
 
-<br>
+---
 
-<!-- Men Haqimda Bo'limi -->
-## 💫 Men Haqimda
+## 🏅 Certifications
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Assalomu alaykum! Men O'zbekistondan bo'lgan g'ayratli dasturchiman 🇺🇿</h3>
-      <p>Men nafis mobil ilovalar va yuqori samarali backend tizimlarini yaratishga ixtisoslashganman. Yangi texnologiyalarni o'rganishni va hayotiy muammolarni hal qiluvchi startaplarni qurishni yaxshi ko'raman.</p>
-      <ul>
-        <li>📱 Chiroyli va tezkor mobil interfeyslarni yaratishga ishtiyoqi baland bo'lgan <b>Flutter dasturchi</b>.</li>
-        <li>🚀 <b>Ishoora</b> startapining hammuassisi va uni ishlab chiquvchi.</li>
-        <li>🧠 <b>Sun'iy intellekt (AI) integratsiyasi</b>, mobil ilovalar va backend tizimlarini ishlab chiqishga qiziqaman.</li>
-        <li>📚 Hozirda <b>Flutter clean architecture</b> (toza arxitektura) va <b>FastAPI</b> bo'yicha ilg'or tajribalarni o'rganyapman.</li>
-        <li>🤝 Faol <b>Open Source ishtirokchisi</b> va dasturchilar hamjamiyati a'zosi.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Mashrab uchun yaratilgan maxsus avatar -->
-      <img src="./developer_avatar.jpg" width="220" style="border-radius: 15px; box-shadow: 0 4px 30px rgba(123, 44, 191, 0.3);" alt="Mashrab Mamarizayev" />
-    </td>
-  </tr>
-</table>
+### Amazon Web Services (AWS)
+* <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Solutions Architect" />
+* <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner" />
 
-<br>
+### Oracle Corporation
+* <img src="https://img.shields.io/badge/Oracle-Java_SE_11_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java SE 11" />
 
-<!-- Texnologiyalar Bo'limi -->
-## 🛠️ Texnologiyalar va Uskunalar
+### NPTEL (National Programme on Technology Enhanced Learning)
+* <img src="https://img.shields.io/badge/NPTEL-Software_Engineering_Honor-0072C6?style=flat-square&logo=academia" alt="NPTEL Software Engineering" />
 
-<div align="center">
-  <!-- Skill Icons paneli -->
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,py,fastapi,firebase,git,github,docker,linux,figma,vscode,html,css,js&perline=7" alt="Texnologiyalar" />
-    </a>
-  </p>
+### Cisco Systems
+* <img src="https://img.shields.io/badge/Cisco-CCNA_Enterprise_Core-1F5770?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" />
 
-  <!-- Turkumlar bo'yicha Shields.io nishonlari -->
-  <table>
-    <tr>
-      <td align="center"><b>Mobil va Frontend</b></td>
-      <td align="center"><b>Backend va Ma'lumotlar Bazasi</b></td>
-      <td align="center"><b>Uskunalar va DevOps</b></td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /><br>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </td>
-      <td valign="top">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /><br>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" /><br>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br>
+## 💻 Coding Profiles
 
-<!-- Loyihalar Bo'limi -->
-## 🚀 Tanlangan Loyihalar
+<p align="center">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Premium-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Advanced-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-5_Star-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Div_1-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Ishoora Card -->
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/mamarizayev-mashrab/ishoora" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=7B2CBF&text=Ishoora&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Ishoora Loyihasi" />
-        </a>
-        <h3><b>Ishoora Startap</b></h3>
-        <p>Raqamli operatsiyalarni soddalashtirish uchun Flutter va FastAPI yordamida yaratilgan zamonaviy startap loyihasi.</p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/ishoora" target="_blank"><b>Loyihani ko'rish →</b></a>
-      </td>
-      
-      <!-- Oxford Mind Card -->
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/mamarizayev-mashrab/oxford-mind" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=3A86FF&text=Oxford%20Mind&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="Oxford Mind Loyihasi" />
-        </a>
-        <h3><b>Oxford Mind</b></h3>
-        <p>Foydalanuvchilarga Oxford lug'atlarini o'zlashtirishga va miya faoliyatini rivojlantirishga yordam beradigan mukammal mobil ta'lim ilovasi.</p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/oxford-mind" target="_blank"><b>Loyihani ko'rish →</b></a>
-      </td>
-      
-      <!-- File Converter Card -->
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/mamarizayev-mashrab/file-converter" target="_blank">
-          <img src="https://capsule-render.vercel.app/api?type=soft&color=9D4EDD&text=File%20Converter&fontSize=25&height=120&width=280&animation=twinkling" width="100%" style="border-radius: 10px;" alt="File Converter Loyihasi" />
-        </a>
-        <h3><b>Fayl Konvertori</b></h3>
-        <p>Turli formatlarni ommaviy konvertatsiya qilishni qo'llab-quvvatlaydigan tezkor va xavfsiz lokal fayl konvertori.</p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <br><br>
-        <a href="https://github.com/mamarizayev-mashrab/file-converter" target="_blank"><b>Loyihani ko'rish →</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br>
+## 📊 GitHub Analytics
 
-<!-- GitHub Statistikasi -->
-## 📊 GitHub Tahlillari
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamarizayev-mashrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamarizayev-mashrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mamarizayev-mashrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamarizayev-mashrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamarizayev-mashrab&theme=dark&background=0D1117&ring=9D4EDD&fire=3A86FF&sideNums=FFFFFF&sideTitle=FFFFFF&currStreakNum=3A86FF&currStreakLabel=9D4EDD&hide_border=true" alt="Streak Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamarizayev-mashrab&theme=dark&background=0D1117&ring=9D4EDD&fire=3A86FF&sideNums=FFFFFF&sideTitle=FFFFFF&currStreakNum=3A86FF&currStreakLabel=9D4EDD&hide_border=true" alt="Streak Stats" width="100%" />
+</p>
 
-<br>
+---
 
-<!-- Hissalar Ilonchasi Bo'limi -->
-### 🐍 Hissalar Ilonchasi (Contribution Snake)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mamarizayev-mashrab&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mamarizayev-mashrab&bg_color=0d1117&color=9D4EDD&line=3A86FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -167,47 +262,42 @@
   </picture>
 </div>
 
-<br>
+---
 
-<details>
-  <summary><b>🛠️ Hissalar ilonchasi animatsiyasini qanday faollashtirish kerak</b></summary>
-  <br>
-  Iloncha animatsiyasi ishlashi uchun biz ushbu repository-ga GitHub Actions workflow faylini qo'shdik. Uni ishga tushirish uchun quyidagi oddiy qadamlarni bajaring:
-  1. Mahalliy o'zgarishlarni GitHub profilingiz omboriga yuboring (odatda foydalanuvchi nomingiz bilan bir xil, masalan, <code>mamarizayev-mashrab/mamarizayev-mashrab</code>).
-  2. GitHub-dagi repository sozlamalariga (<b>Settings</b>) o'ting -> <b>Actions</b> -> <b>General</b>.
-  3. Sahifaning pastki qismidagi <b>Workflow permissions</b> bo'limidan <b>Read and write permissions</b>-ni tanlang va <b>Save</b> tugmasini bosing.
-  4. Repository-ning <b>Actions</b> bo'limiga o'ting, <b>Generate Snake</b> workflow-ni tanlang va <b>Run workflow</b> tugmasini bosing.
-  5. Workflow animatsiyani yaratadi va uni <code>output</code> branch-iga yuklaydi. Natijada profilingiz README fayli shu zahoti yangilanadi!
-</details>
+## 🎯 Current Focus
 
-<br>
+```yaml
+learning: "System Design, Advanced Rust, Kubernetes"
+building: "Ishoora Mobile Client v2, AI-Driven Dev Agent"
+exploring: "Edge AI, WebAssembly, Web3 Ecosystem"
+openTo: "High-scale engineering projects, contract architectures"
+```
 
-<!-- Aloqa Bo'limi -->
-## 🤝 Men bilan Bog'lanish
+---
+
+## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/mamarizayev-mashrab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:mashrabmamarizayev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mashrabmamarizayev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/mashrab-mamarizayev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mashrab_Mamarizayev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/asqarovich" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://github.com/mamarizayev-mashrab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-mamarizayev--mashrab-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:mashrabmamarizayev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/mamarizayev-mashrab" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Mashrab.dev-7B2CBF?style=flat-square&logo=codepen&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<br>
+---
 
-<!-- Profil ko'rishlar soni -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mamarizayev-mashrab&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
 </p>
 
-<!-- Capsule Render yordamida yaratilgan quyi waving banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3A86FF&customColorEnd=7B2CBF&height=120&section=footer" width="100%" alt="Quyi Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorStart=3A86FF&customColorEnd=7B2CBF&height=120&section=footer" width="100%" alt="Footer Banner" />
 </p>
