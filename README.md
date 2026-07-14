@@ -226,8 +226,8 @@ Leveraged asynchronous subprocess execution within Python to call FFmpeg binary 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamarizayev-mashrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mamarizayev-mashrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mamarizayev-mashrab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mamarizayev-mashrab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=3A86FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
